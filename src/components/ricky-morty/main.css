@@ -1,0 +1,19 @@
+.styleRick {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.rick {
+    text-align: center;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+.rick > img {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: -3px;
+}
